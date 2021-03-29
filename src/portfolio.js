@@ -15,7 +15,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Php / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1KteP6QB8YSasqW-b8wLfk_PG3PWWaSWU/view?usp=sharing",
+    "https://drive.google.com/file/d/1dM-I-xrN6jVeQw7ouQ1IGFZtdL8ppPsr/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -230,6 +230,17 @@ const bigProjects = {
       image: require("./assets/images/slackLogo.png"),
       projectName: "Slack Clone ",
       projectDesc: "Slack clone using React,Node and firebase| Channels are working for meassages | Working on threads and direct messages",
+      footerLink: [
+        {
+          name: "Project Demo",
+          url: "https://yakub-khan-slack-clone-beta.netlify.app"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/slackLogo.png"),
+      projectName: "Snake Game by Reversing the Linked List",
+      projectDesc: "This project is meant to be a tutorial for a Snake game that reverses a linked list.",
       footerLink: [
         {
           name: "Project Demo",
