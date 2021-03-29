@@ -244,7 +244,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Project Demo",
-          url: "https://yakub-khan-slack-clone-beta.netlify.app"
+          url: "https://youthful-visvesvaraya-ba0c07.netlify.app"
         }
       ]
     },
